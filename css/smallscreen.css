@@ -1,0 +1,45 @@
+
+  .shift{
+
+    margin-left: 30px;
+  }
+  
+  .parent{
+        position: relative;
+    }
+
+  .over-img{
+    top: 5%;
+    height: 60%;
+    width: 80%;
+    left: 10%;
+    
+  }
+  
+    .hero-text {
+        text-align: left;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #ffffff;
+    
+    }
+ 
+ 
+    .x1{
+        font-size: larger;
+    }
+    .x2{
+        font-size: xx-small;
+    }
+    
+    .x3{
+        font-size: xx-small;
+    }
+ 
+    .sd{
+        height: 100%;
+        width: auto;
+    }
+  
